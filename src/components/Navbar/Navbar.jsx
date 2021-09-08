@@ -68,7 +68,7 @@ const PrimarySearchAppBar = ({ totalItems }) => {
 							height='25px'
 							className={classes.image}
 						/>{' '}
-						Burger House
+						E Shop
 					</Typography>
 					<div className={classes.grow} />
 					{location.pathname === '/' && (
